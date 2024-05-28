@@ -16,6 +16,50 @@
 ### 教程内容：
 本教程主要内容包括对 Adobe Illustrator 基本操作的详细介绍，并提供了五个案例，涉及如何制作科学示意图、美化 Excel 图表、绘制地质图、创建技术路线图和设计神经网络图等内容。
 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+  .gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px; /* Space between images */
+    justify-content: center; /* Center images in the container */
+  }
+  .gallery img {
+    width: calc(33.333% - 10px); /* 3 images per row, subtract gap */
+    border-radius: 8px;
+    transition: transform 0.2s ease;
+  }
+  .gallery img:hover {
+    transform: scale(1.1);
+  }
+  @media (max-width: 600px) {
+    .gallery img {
+      width: calc(50% - 10px); /* On small screens, 2 images per row */
+    }
+  }
+</style>
+</head>
+<body>
+
+<div class="gallery">
+    <img src="https://dunazo.oss-cn-beijing.aliyuncs.com/blog/Adobe%20Illustrator1%20.jpg"/>
+    <img src="https://dunazo.oss-cn-beijing.aliyuncs.com/blog/Adobe%20Illustrator%202.jpg"/>
+    <img src="https://dunazo.oss-cn-beijing.aliyuncs.com/blog/Adobe%20Illustrator%203.jpg"/>
+    <img src="https://dunazo.oss-cn-beijing.aliyuncs.com/blog/Adobe%20Illustrator%204.jpg"/>
+    <img src="https://dunazo.oss-cn-beijing.aliyuncs.com/blog/Adobe%20Illustrator%205.jpg"/>
+    <img src="https://dunazo.oss-cn-beijing.aliyuncs.com/blog/Adobe%20Illustrator%206.jpg"/>
+
+</div>
+
+</body>
+</html>
+<br><br>
+
 - 基本操作：了解 Adobe Illustrator 的常用工具和基本操作。
 - 科学示意图设计：学习绘制和编辑矢量图形，熟悉导入位图及其矢量化操作。
 - Excel 图表美化：学习对象的编组/解组，编辑文字，美化 Excel 散点图等。

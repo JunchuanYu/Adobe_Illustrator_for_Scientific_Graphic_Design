@@ -1,0 +1,34 @@
+# Adobe Illustrator & 科研制图
+#### ——一个关于使用 Adobe Illustrator 进行科研矢量图设计的免费教程。
+
+选择语言阅读介绍：[English](README_en.md) | [中文](README_zh.md)<br><br>
+
+![](https://dunazo.oss-cn-beijing.aliyuncs.com/blog/Adobe%20Illustrator.jpg)
+
+### 介绍
+您是 Adobe Illustrator 小白吗？想要掌握SCI论文插图的绘制方法？我们的免费教程系列旨在通过实际案例指导您了解 Adobe Illustrator 的基本操作并展示其能力。
+
+如果认为这个教程对你有帮助，请点击右上角的⭐，并分享给其他人，感谢你的支持！
+
+### 目标
+本教程的主要目标是通过实际案例教授利用 Illustrator 绘制高质量科研插图的技巧。通过本教程的学习，你将对 Illustrator 的基本操作有一个全面的理解，并学习如何利用其中的工具进行各类科学插图的绘制。本教程不仅讲解 Illustrator，还介绍了对其与 Adobe Photoshop，Microsoft PowerPoint 和 Excel 等交互操作的方法，以增强你对科研工作流的整体认识。
+
+### 教程内容：
+本教程主要内容包括对 Adobe Illustrator 基本操作的详细介绍，并提供了五个案例，涉及如何制作科学示意图、美化 Excel 图表、绘制地质图、创建技术路线图和设计神经网络图等内容。
+
+- 基本操作：了解 Adobe Illustrator 的常用工具和基本操作。
+- 科学示意图设计：学习绘制和编辑矢量图形，熟悉导入位图及其矢量化操作。
+- Excel 图表美化：学习对象的编组/解组，编辑文字，美化 Excel 散点图等。
+- 地质图绘制：学习使用钢笔工具绘制地图边界，掌握几何拓扑和地图要素修饰方法。
+- 技术路线图绘制：学习绘制技术路线图，掌握与 Adobe Photoshop 和 PowerPoint 交互的方法。
+- 神经网络图设计：学习绘制 3D 图形并进行贴图操作，理解颜色搭配，多版面输出技巧。
+
+### 示例数据和教学视频：
+本教程为每个案例提供分步教学视频，DEMO文件夹中提供了案例所需学习素材，以便于你学习过程中对案例进行复现。此外，我们还提供了本教程的 PDF 介绍。
+
+- Intro 视频：[Bilibili](https://www.bilibili.com/video/BV1Hf421d7Zk/) 
+- Task1 视频：[Bilibili](https://www.bilibili.com/video/BV15r421w7JB/) 
+- Task2 视频：[Bilibili](https://www.bilibili.com/video/BV1Am421N7pV/) 
+- Task3 视频：[Bilibili](https://www.bilibili.com/video/BV1LZ421W7A2/) 
+- Task4 视频：[Bilibili](https://www.bilibili.com/video/BV13m421T7ti/) 
+- Task5 视频：[Bilibili](https://www.bilibili.com/video/BV18n4y1R7bV/) 

@@ -18,6 +18,50 @@ The main goal of this tutorial is to teach you how to draw high-quality scientif
 ### Tutorial Content:
 The main content of this tutorial includes a detailed introduction to the basic operations of Adobe Illustrator and provides five cases, involving how to make scientific schematic diagrams, beautify Excel charts, draw geological maps, create technology roadmaps, and design neural network diagrams.
 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+  .gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px; /* Space between images */
+    justify-content: center; /* Center images in the container */
+  }
+  .gallery img {
+    width: calc(33.333% - 10px); /* 3 images per row, subtract gap */
+    border-radius: 8px;
+    transition: transform 0.2s ease;
+  }
+  .gallery img:hover {
+    transform: scale(1.1);
+  }
+  @media (max-width: 600px) {
+    .gallery img {
+      width: calc(50% - 10px); /* On small screens, 2 images per row */
+    }
+  }
+</style>
+</head>
+<body>
+
+<div class="gallery">
+    <img src="https://dunazo.oss-cn-beijing.aliyuncs.com/blog/Adobe%20Illustrator1%20.jpg"/>
+    <img src="https://dunazo.oss-cn-beijing.aliyuncs.com/blog/Adobe%20Illustrator%202.jpg"/>
+    <img src="https://dunazo.oss-cn-beijing.aliyuncs.com/blog/Adobe%20Illustrator%203.jpg"/>
+    <img src="https://dunazo.oss-cn-beijing.aliyuncs.com/blog/Adobe%20Illustrator%204.jpg"/>
+    <img src="https://dunazo.oss-cn-beijing.aliyuncs.com/blog/Adobe%20Illustrator%205.jpg"/>
+    <img src="https://dunazo.oss-cn-beijing.aliyuncs.com/blog/Adobe%20Illustrator%206.jpg"/>
+
+</div>
+
+</body>
+</html>
+<br><br>
+
 - Basic Operations: Understand the commonly used tools and basic operations of Adobe Illustrator.
 - Scientific Schematic Design: Learn to draw and edit vector graphics, and become familiar with the import and vectorization of bitmaps.
 - Excel Chart Beautification: Learn to group/ungroup objects, edit text, and enhance Excel scatter plots.
